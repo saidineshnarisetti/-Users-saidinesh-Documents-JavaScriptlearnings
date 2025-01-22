@@ -22,3 +22,7 @@ console.log(c)
 
 const d= a*b;
 console.log(d)
+
+// Use let for variables that need to change.
+// Use const for constants or variables that shouldn’t change.
+// Avoid using var in modern JavaScript.
